@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@qdrant/js-client-rest": "^1.9.0",
+    "@qdrant/js-client-rest": "^1.15.0",
     "node-appwrite": "^14.1.0",
     "openai": "^4.47.1",
     "typescript": "5.4.5"

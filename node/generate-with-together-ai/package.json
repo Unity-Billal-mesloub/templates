@@ -10,7 +10,7 @@
   "keywords": [],
   "dependencies": {
     "node-appwrite": "^14.1.0",
-    "undici": "^6.18.1"
+    "undici": "^6.21.2"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
